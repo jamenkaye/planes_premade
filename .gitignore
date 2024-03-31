@@ -13,3 +13,8 @@
 # Large yolov5 github files
 /yolov5/_old.git
 /yolov5/_old.github
+
+# Saved notebooks
+/notebook_html/
+
+*.pt
