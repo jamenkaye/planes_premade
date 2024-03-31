@@ -1,0 +1,5 @@
+# Ignore data files, except 1 example in each folder
+/data/extras/*
+!data/extras/08a8132a-a6c7-4cab-adee-7e2976fd2822.jpg
+/data/images/*
+!data/images/a9cc0c57-a46a-4d85-bd97-937cf7ffc6f8.jpg
