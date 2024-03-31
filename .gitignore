@@ -4,6 +4,12 @@
 /data/images/*
 !data/images/a9cc0c57-a46a-4d85-bd97-937cf7ffc6f8.jpg
 
+# Same idea for processed data
+/kaggle/working/train/images/*
+!/kaggle/working/train/images/3e321b8a-9504-45aa-82b4-16158e28e290_0_0.jpg
+/kaggle/working/val/images/*
+!/kaggle/working/val/images/1e7e0450-6eb3-479e-88c2-990abc8207fa_0_0.jpg
+
 # Large yolov5 github files
 /yolov5/_old.git
 /yolov5/_old.github
